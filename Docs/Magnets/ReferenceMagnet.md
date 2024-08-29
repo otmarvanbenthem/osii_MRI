@@ -9,7 +9,7 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
       <img src="./Docs/Images/BadMag1.jpg" alt="Damaged Magnet Example 1" width="300" />
       <img src="./Docs/Images/BadMag2.jpg" alt="Damaged Magnet Example 2" width="300" /> 
     </p>
-  3. Insert the magnet and Hall Effect sensor into the [*Magnet Test Station*](../Build/Magnets).
+  3. Insert the magnet and Hall Effect sensor into the [*Magnet Test Station*](.../Build/Magnets).
     <p float="left">
       <img src="Docs/Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="300" />
     </p>     

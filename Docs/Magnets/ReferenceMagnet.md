@@ -11,7 +11,7 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
     </p>
   3. Insert the magnet and Hall Effect sensor into the [*Magnet Test Station*](../osii_MRI/Build/Magnets).
     <p float="left">
-      <img src="./Docs/Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="300" />
+      <img src="Docs/Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="300" />
     </p>     
   4. Download the [*Magnet Testing Script*](../osii_MRI/Software) to interface with the Arduino.
   5. Connect the Arduino to your computer and upload the [*Python Scripts*](../osii_MRI/Software) to the Arduino board.

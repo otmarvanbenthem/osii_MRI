@@ -1,6 +1,6 @@
-# Magnet Assembly
+# Magnet Test Station
 
-This section outlines the process for testing and mounting the magnets that generate the main static field of the OSI<sup>2</sup> MINI. 
+This section outlines the process for testing the magnets that generate the main static field of the OSI<sup>2</sup> MINI. 
 
 > [!NOTE]
 > Please follow the [*Reference Magnet*](ReferenceMagnet.md) documentation before starting the magnet assembly.

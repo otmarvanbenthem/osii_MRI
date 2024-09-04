@@ -31,6 +31,6 @@ Once the reference magnet is established, the magnet test station will then util
 
 4. Once the Magnet Test Station is setup properly, connect the Arduino to your USB port. A detailed description and physical code can be found at the [*OSI<sup>2</sup> repository*](https://gitlab.com/osii/tools/MagnetTestStation). An example of what the interface looks like once you set it up is shown below.
 
-  | Row of magnets |
+  | Python Interface |
   | :---: |
-  |<img src="../Images/Magline.jpg" alt="block of magnets" width="165" />|
+  |<img src="../Images/python_interface.png" alt="python interface" width="300" />|

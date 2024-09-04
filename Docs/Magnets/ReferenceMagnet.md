@@ -1,6 +1,19 @@
 # Establishing the Reference Magnet
 
-A reference magnet was used to check the magnetic field strength ($\vec{B}$- Field) and pole alignment of the Neodymium magnets used in the OSI<sup>2</sup> MINI build.
+A reference magnet was used to check the magnetic field strength ($\vec{B}$- Field) and polarization of the Neodymium magnets used in the OSI<sup>2</sup> MINI build.
+
+## Required Hardware
+- [ ] 1 Arduino Uno (or similar Arduino product)
+- [ ] 1 USB cable (to connect the Arduino to the computer)
+- [ ] 3 jumper cables (to connect the Hall Effect Sensor to the Arduino)
+- [ ] 1 Computer
+- [ ] 1 Hall Effect Sensor
+- [ ] 1 [*Magnet Test Station*](../../Build/Magnets)
+- [ ] 1 Spacer ([*Spacer_A0*](../../Build/Tools/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/Spacer_A1-Spacer.step))
+- [ ] 1 Neodymium Magnet (this becomes your reference)
+
+## Required Software
+- [ ] 
 
 ## To Obtain a Reference Magnet
   1. Select one of the magnets from the batch.

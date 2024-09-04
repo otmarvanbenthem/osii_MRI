@@ -28,3 +28,9 @@ Once the reference magnet is established, the magnet test station will then util
   | Spacer_A0 | Spacer_A1 | Magnet Test Station |
   | :---: | :--: |:--: |
   |<img src="../Images/Mag_test_station_holder1.png" alt="test station setup" width="300" />|<img src="../Images/Mag_test_station_holder2.png" alt="test station setup" width="270" />|<img src="../Images/ReferenceMag_setup1.jpg" alt="test station setup" width="300" />|
+
+4. Once the Magnet Test Station is setup properly, connect the Arduino to your USB port. A detailed description and physical code can be found at the [*OSI<sup>2</sup> repository*](https://gitlab.com/osii/tools/MagnetTestStation). An example of what the interface looks like once you set it up is shown below.
+
+  | Row of magnets |
+  | :---: |
+  |<img src="../Images/Magline.jpg" alt="block of magnets" width="165" />|

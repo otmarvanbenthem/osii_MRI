@@ -28,9 +28,9 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
 
   3. Insert the magnet and Hall Effect sensor into the [*Magnet Test Station*](../../Build/Magnets).
 
-  | Magnet and Sensor in test station |
-  | :---: |
-  |<img src="../Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="300" />|
+  | Magnet and Sensor in test station | Sensor Wiring |
+  | :---: | :--: |
+  |<img src="../Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="523" />|<img src="../Images/halleffectsensor.png" alt="Sensor Wiring" width="350" />|
   
   5. Download the [*Magnet Testing Script*](../../Software) to interface with the Arduino.
   6. Connect the Arduino to your computer and upload the [*Python Scripts*](../../Software) to the Arduino board.

@@ -11,6 +11,12 @@ This project is an initiative of the [Lili's Proto Lab](https://www.uu.nl/lpl) w
 Student teams can be a great force in progressing this field. 
 Collectively, they can enhance the accuracy and utility of open-source MRI devices through rigorous calibration procedures, iterative testing, and collaboration with experts in both engineering and medical fields.  
 
+## MRI Resources
+More information about MRIs and their operations can be found below:
++ [OSI<sup>2</sup> Repository:](https://gitlab.com/osii) Here you can find additional information about the original OSI<sup>2</sup> ONE
++ [Integrated System Design:](/Docs/System_Integration_Singapore_LF_MRI.pdf) More information about integrating RF and gradient system design
+
+
 ## Main features
 
 We are replicating the OSII mini design by Dr. Joshua Harper from [Sustainable MRI Lab](smrilab.com) which is based on the original work of Thomas O'Reilly and Andrew Webb at Leiden University.

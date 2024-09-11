@@ -32,10 +32,29 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
   | :---: | :--: |
   |<img src="../Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="523" />|<img src="../Images/halleffectsensor.png" alt="Sensor Wiring" width="350" />|
   
-  5. Download the [*Magnet Testing Script*](../../Software) to interface with the Arduino.
-  6. Connect the Arduino to your computer and upload the [*Python Scripts*](../../Software) to the Arduino board.
+  5. Download the [*Arduino Script*](../../Software) to interface with the Arduino.
+      - Connect the Arduino to your USB port.
+      - Ensure your wiring matches the above schematic.
+      - Update the analog pin name to which the Hall sensor is connected to inside the Arduino sketch code.
+          ```cpp
+            short pins[] = {A0};
+          ```
+      - Upload the Arduino sketch to the Arduino.
 
-## Running the Code
+  7. Keep the Arduino connectedd to your computer and make sure you have downloaded the [*Python Scripts*](../../Software).
+      - Run the Python script `mainInterface.py` to trigger the UI.
+      - In the $${\color{lightgreen}Options}$$ section, properly fill out the number of Hall sensors, sensitivity, serial port the Arduino is connected, and file location/name.
+      - Press $${\color{orange}Connect}$$ to establish communication with the Arduino.
+      - Press $${\color{orange}Start \space Measurements}$$ to start a live measurement of the magnetic field.
+      - Press $${\color{orange}Store}$$ to log individual points into a log file.
+      - Press $${\color{orange}Zero}$$ to set a zero point during measurement.
+        
+  | mainInterface.py | log file |
+  | :---: | :---: |
+  <img src="../Images/python_interface.png" alt="Damaged Magnet Example 1" width="300" /> | <img src="../Images/python_interface_log.png" alt="Damaged Magnet Example 1" width="420" />
+  
+
+## Understanding the Hall Effect
 > [!NOTE]
 > Whether the north or south pole of the magnet is facing the Hall Effect sensor is irrelevant. The important part is ensuring that which ever pole you choose, you are consistent throughout the project.
 

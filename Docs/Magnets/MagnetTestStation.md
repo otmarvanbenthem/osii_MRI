@@ -23,7 +23,7 @@ Once the reference magnet is established, the magnet test station will then util
   | :---: | :--: |
   |<img src="../Images/Magline.jpg" alt="block of magnets" width="165" />|<img src="../Images/Mag_layout2.png" alt="block of magnets modelled" width="300" /> |
 
-3. Next, pull one magnet from the row at a time. Set it into the [*Magnet Test Station*](../../Build/Tools/Frame-TestMagnetSupport.step) to double check pole orientation as well as ensuring that its $\vec{B}$- Field stregnth is within specification. In this setup, [*Spacer_A0*](../../Build/Tools/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/Spacer_A1-Spacer.step) is optimal for holding the 12mm magnets.
+3. Next, pull one magnet from the row at a time. Set it into the [*Magnet Test Station*](../../Build/Tools/step/Frame-TestMagnetSupport.step) to double check pole orientation as well as ensuring that its $\vec{B}$- Field stregnth is within specification. In this setup, [*Spacer_A0*](../../Build/Tools/step/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/step/Spacer_A1-Spacer.step) is optimal for holding the 12mm magnets.
 
   | Spacer_A0 | Spacer_A1 | Magnet Test Station |
   | :---: | :--: |:--: |

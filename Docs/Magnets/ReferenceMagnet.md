@@ -9,7 +9,7 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
 - [ ] 1 Computer
 - [ ] 1 [Hall Effect Sensor](../A1302K-67Y_hall_sensor.pdf)
 - [ ] 1 [*Magnet Test Station*](../../Build/Magnets)
-- [ ] 1 Spacer ([*Spacer_A0*](../../Build/Tools/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/Spacer_A1-Spacer.step))
+- [ ] 1 Spacer ([*Spacer_A0*](../../Build/Tools/step/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/step/Spacer_A1-Spacer.step))
 - [ ] 1 Neodymium Magnet (this becomes your reference)
 
 ## Required Software

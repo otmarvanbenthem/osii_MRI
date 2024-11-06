@@ -1,3 +1,22 @@
+
+# License Recommendation for OSII mini
+
+To keep projects legally compatible within the OSI² community, we recommend the use of the following licenses:
+
+| Type                | Detail                                 | License                                                                              |
+|--------------------|------------------------------------|-----------------------------------------------------------------------------|
+| Hardware            | technical documentation (CAD, calculations, instructions) | [CERN-OHL-W-2.0](https://ohwr.org/cern_ohl_w_v2.txt)                                                                                            |
+| Software            | source code                                              | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt), [MIT](https://opensource.org/license/mit/) or any permissive open source license |
+| QM-related material | e.g. MDR-related documents                               | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)                                                                              |
+| Media               | logos, group fotos, recordings of meetings etc.          | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)                                                                              |
+| Research            | publications, data etc.                                  | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)                                                                              |
+| Metadata            | e.g. of of deposited publications or hardware designs    | [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)                                                                          |
+
+
+Unless mentioned explicitly, the documents in this repository are shared under the CERN Open Hardware Licence Version 2
+
+
+======
 CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 
 

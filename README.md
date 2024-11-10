@@ -54,7 +54,7 @@ In parallel, all outputs of this collaboration will be cooridnated and shared wi
 	+ Project lead: Stephen Ogier
 	+ Contributors: Katy Keenan
 
-+ Independent:
++ New York University, Interactive Telecommunications Program:
 	+ Greg Shakar
 
 ## Get involved

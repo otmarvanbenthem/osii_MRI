@@ -41,7 +41,7 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
           ```
       - Upload the Arduino sketch to the Arduino.
 
-  7. Keep the Arduino connectedd to your computer and make sure you have downloaded the [*Python Scripts*](../../Software).
+  7. Keep the Arduino connectedd to your computer and make sure you have downloaded the [*Python Scripts*](../../Software/MagnetTestStation).
       - Run the Python script `mainInterface.py` to trigger the UI.
       - In the $${\color{lightgreen}Options}$$ section, properly fill out the number of Hall sensors, sensitivity, serial port the Arduino is connected, and file location/name.
       - Press $${\color{orange}Connect}$$ to establish communication with the Arduino.

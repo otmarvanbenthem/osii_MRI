@@ -8,8 +8,8 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
 - [ ] 3 jumper cables (to connect the Hall Effect Sensor to the Arduino)
 - [ ] 1 Computer
 - [ ] 1 [Hall Effect Sensor](../BackCatalog/A1302K-67Y_hall_sensor.pdf)
-- [ ] 1 [*Magnet Test Station*](../../Build/CAD/STEP/Frame-TestMagnetSupport.step)
-- [ ] 1 Spacer ([*Spacer_A0*](../../Build/Tools/step/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/step/Spacer_A1-Spacer.step))
+- [ ] 1 [*Magnet Test Station*](../../Build/Tools/Frame-TestMagnetSupport.step)
+- [ ] 1 Spacer ([*Spacer_A0*](../../Build/Tools/Spacer_A0-Spacer.step) or [*Spacer_A1*](../../Build/Tools/Spacer_A1-Spacer.step))
 - [ ] 1 Neodymium Magnet (this becomes your reference)
 
 ## Required Software
@@ -26,7 +26,7 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
   | :---: | :---: |
   <img src="../Images/BadMag1.jpg" alt="Damaged Magnet Example 1" width="300" /> | <img src="../Images/BadMag2.jpg" alt="Damaged Magnet Example 1" width="300" />
 
-  3. Insert the magnet and Hall Effect sensor into the [*Magnet Test Station*](../../Build/Magnets).
+  3. Insert the magnet and Hall Effect sensor into the [*Magnet Test Station*](../../Build/Tools/Frame-TestMagnetSupport.step).
 
   | Magnet and Sensor in test station | Sensor Wiring |
   | :---: | :--: |

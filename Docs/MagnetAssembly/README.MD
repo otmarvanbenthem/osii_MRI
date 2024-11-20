@@ -1,10 +1,8 @@
-# Inserting the Magnets into the MRI Frame
-
-Documentation for all things magnets. 
+# Assembing the 3D-Printed Frame and Halbach Magnets
 
 ## Description
 This directory contains:
-1. Establishing the [*Reference Magnet*](ReferenceMagnet.md).
-2. Setting up and testing each magnet with the [*Magnet Test Station*](MagnetTestStation.md).
-3. Installing the [*magnets*](MagnetAssembly.md) that generate the main static field.
+1. Printing the [3D-Printed rings](PrintFrame).
+2. Installing the [magnets](MagnetAssembly) that generate the main static field.
+3. Mounting the [assembled rings](AssembleFrame) together.
 

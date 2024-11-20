@@ -32,7 +32,7 @@ A reference magnet was used to check the magnetic field strength ($\vec{B}$- Fie
   | :---: | :--: |
   |<img src="../Images/ReferenceMag_setup2.jpg" alt="Magnet and sensor in test station" width="523" />|<img src="../Images/halleffectsensor.png" alt="Sensor Wiring" width="350" />|
   
-  5. Download the [*Arduino Script*](../../Software) to interface with the Arduino.
+  5. Download the [*Arduino Script*](../../Software/MagnetTestStation) to interface with the Arduino.
       - Connect the Arduino to your USB port.
       - Ensure your wiring matches the above schematic.
       - Update the analog pin name to which the Hall sensor is connected to inside the Arduino sketch code.

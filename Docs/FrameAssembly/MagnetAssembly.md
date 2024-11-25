@@ -12,7 +12,7 @@ Tools to print:
 |<img src="../Images/stamp1.png" alt="printed ring example" width="300" />|<img src="../Images/holder1.png" alt="CAD drawing of ring" width="470" />|   
 
 ## Holder Modifications
-I would also like to note that the current design of the stamp was not ideal. The design was based off of the origianl OSII ONE. With the addition of the clips designed to hold the plexi-glass on the ring, they constantly obstructed the stamp. A modification was made to raise the holder design in an attemp to counter this. This is also not a great solution, but it did end up holding for the duration of the mounting process.
+I would also like to note that the current design of the holder was not ideal. The design was based off of usage for the origianl OSII ONE. With the addition of the clips designed to hold the plexi-glass on the ring, they constantly obstructed the stamp. A modification was made to raise the holder design in an attemp to counter this. This is also not a great solution, but it did end up holding for the duration of the mounting process.
 
 The file for small modification can be found here:
   - [ ] [Fusion 360 file](../../Build/Tools/holder-modv2.f3d).

@@ -33,3 +33,5 @@ For each ring, the Fusion 360 files and the DXF files can be found [here](../../
 | Locating Bar | 3D Model |
 | :---: | :---: |
 |<img src="../Images/locatingbar1.jpg" alt="locating bar image" width="400" />|<img src="../Images/locatingbar1.png" alt="CAD drawing of locating bar" width="400" />|
+
+There are 8 locating bars that need to be printed for this design. Versions of this file can be found [here](../../Build/Frame/Locating_Bar).

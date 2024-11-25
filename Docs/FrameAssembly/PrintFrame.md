@@ -1,4 +1,4 @@
-# Printing the Rings
+# Printing the Frame
 
 ## Printer settings and consumables
 Printers Used: 

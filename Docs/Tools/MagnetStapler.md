@@ -1,5 +1,6 @@
 # Magnet Stapler
 The tools used to aid in reducing the finger pinching as the magnets are installed into the MRI frame rings.
+I found that printing the tools with a resin printer yielded a better print quality. They can still be printed with an FDM printer though (using the same settings as the frame).
 
 Tools to print:
   - [ ] [Stamp](../../Build/Tools/stamp-Body.step)

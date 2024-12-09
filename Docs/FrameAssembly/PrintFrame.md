@@ -27,11 +27,11 @@ For example:
   - [ ] R4 V3 = Ring 4 version 3 = Ring_4_V3 v10.f3z
   - [ ] R4R V3 = Ring 4 Rotated version 3 = Ring_4_V3_180 v3.f3z
 
-For each ring, the Fusion 360 files and the DXF files can be found [here](../../Build/Frame/Rings).
+For each ring, the Fusion 360 files and the DXF files can be found [here](../Build/HalbachFrame/Rings).
 
 ## About the Locating Bar
 | Locating Bar | 3D Model |
 | :---: | :---: |
 |<img src="../Images/locatingbar1.jpg" alt="locating bar image" width="400" />|<img src="../Images/locatingbar1.png" alt="CAD drawing of locating bar" width="400" />|
 
-There are 8 locating bars that need to be printed for this design. Versions of this file can be found [here](../../Build/Frame/Locating_Bar).
+There are 8 locating bars that need to be printed for this design. Versions of this file can be found [here](../Build/HalbachFrame/Locating_Bar).

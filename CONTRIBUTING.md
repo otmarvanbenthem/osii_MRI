@@ -4,6 +4,8 @@
 
 :dizzy::hatched_chick::sunny: _We're excited that you're here and want to contribute._ :sunny::hatched_chick::dizzy:
 
+UNDER CONSTRUCTION 2024: These contributing guidelines are not finalized. If you are in a hurry to contribute, contact @SanliFaez (or send an email to _s dot faez AT uu dot nl_ )
+
 We want to ensure that every user and contributor feels welcome, included and supported to participate in this project.
 We hope that the information provided in this document will make it as easy as possible for you to get involved.
 
